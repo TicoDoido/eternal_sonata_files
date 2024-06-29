@@ -14,8 +14,8 @@ Clonar o Repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/eternal_sonata_files.git
-cd eternal_sonata_files
+git clone https://github.com/TicoDoido/eternal_sonata_files.git
+
 Instalar Dependências:
 Certifique-se de ter o Python instalado.
 
